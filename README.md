@@ -1,8 +1,10 @@
 ## Olá! Meu nome é João Pedro. ✌️
 
-![João Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaP53&show_icons=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JotaP53&layout=compact)
+<div>
+    <a href="https://github.com/JotaP53">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaP53&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaP53&layout=compact&theme=dark">
+</div>
 
 ### Conecte-se comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-martins-945b35226/)
