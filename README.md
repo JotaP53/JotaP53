@@ -1,4 +1,4 @@
-## Olá! Meu nome é João Pedro. ✌️
+## Olá! Seja muito bem vindo ao meu portfólio. ✌️
 
 <div>
     <a href="https://github.com/JotaP53">
@@ -7,7 +7,7 @@
 </div>
 
 ### Conecte-se comigo:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-martins-945b35226/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jotap53/))<a href="(https://www.linkedin.com/in/jotap53/)" target="_blank">LinkedIn</a>
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/martinsjp53)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/martinsjp53/)
 
@@ -20,4 +20,4 @@
 ### Entre em contato:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585991219356)
 
-#### `“Falar é fácil. Mostre-me o código!” (Linus Torvalds)`
+#### *“Falar é fácil. Mostre-me o código!” (Linus Torvalds)*
