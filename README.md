@@ -1,9 +1,8 @@
 ## Olá! Seja muito bem vindo ao meu portfólio. ✌️
 
 ### Sobre:
-Designer Gráfico com mais de oito anos de experiência, atuando em diversos nichos.<br>Atualmente, estudando computação no curso de Análise e Desenvolvimento de Sistemas<br>e buscando ingressar no mercado de trabalho tech através de um primeira oportunidade.
+Designer Gráfico com mais de oito anos de experiência, atuando em diversos nichos. Atualmente, estudando computação no curso de Análise e Desenvolvimento de Sistemas e buscando ingressar no mercado de trabalho tech através de um primeira oportunidade.
 
-### Estatísticas:
 <div>
     <a href="https://github.com/JotaP53">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaP53&show_icons=true&theme=dark">
