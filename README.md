@@ -18,4 +18,4 @@ Designer Gráfico com mais de oito anos de experiência, atuando em diversos nic
 ### Conecte-se comigo:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
 
-#### *“Falar é fácil. Mostre-me o código!” (Linus Torvalds)*
+> #### *“Falar é fácil. Mostre-me o código!” (Linus Torvalds)*
