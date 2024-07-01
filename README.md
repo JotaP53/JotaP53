@@ -1,5 +1,5 @@
 # João Pedro Martins
-<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador">
 
 Eu me chamo João Pedro, resido em Fortaleza-CE, no Brasil. Sou estudante do terceiro semestre de Ciência da Computação. Tenho uma longa carreira como designer gráfico (8+) e estou em processo de migração para a área tech.
 
