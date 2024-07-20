@@ -12,7 +12,6 @@ Você pode conferir o resultado de meus estudos no meu portfólio aqui no GitHub
 
 ## Habilidades
 [![Python](https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-008B8B?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white)]()
 
