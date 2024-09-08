@@ -1,11 +1,7 @@
 # João Pedro Martins
 <img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador">
 
-Eu me chamo João Pedro, resido em Fortaleza-CE, no Brasil. Sou estudante de Análise de Desenvolvimento de Sistemas. Tenho uma longa carreira como designer gráfico (8+) e estou em processo de migração para a área tech.
-
-Para além da faculdade, estudo a área de dados, visando adiquirir skills para trabalhar nessa área e crescer profissionalmente como um analista de dados e futuramente como um engenheiro de dados.
-
-Você pode conferir o resultado de meus estudos no meu portfólio aqui no GitHub.
+Eu me chamo João Pedro, resido em Fortaleza-CE, no Brasil. Sou estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas, com interesse na área de Ciência de Dados. Possuo conhecimento em Python e estou me aprofundando em temas como análise de dados, machine learning e inteligência artificial. Tenho facilidade com raciocínio lógico, atenção aos detalhes e trabalho em equipe, e estou buscando uma oportunidade para aplicar e expandir meus conhecimentos práticos em um ambiente de estágio.
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
