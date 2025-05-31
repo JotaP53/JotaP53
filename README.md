@@ -1,7 +1,7 @@
 # João Pedro Martins
 <img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="250px" max-width="225px" width="225px" align="right" alt="Computador">
 
-Estudante do quarto semestre do curso de Análise e Desenvolvimento de Sistemas. Demonstra interesse pela área de Ciência de Dados, possuindo conhecimento em Pythone e SQL e dedicando-se ao aprofundamento em temas como análise de dados, machine learning e inteligência artificial. Além da área de dados se dedica também a projetos front-end, aperfeiçoando sua stack, TypeScrit e React.js.
+Estudante de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunicações (IFCE, S1), com interesse pela área de Ciência de Dados, possuindo conhecimento em Pythone e SQL e dedicando-se ao aprofundamento em temas como análise de dados, machine learning e inteligência artificial. Além da área de dados se dedica também a projetos front-end, aperfeiçoando sua stack, TypeScrit e React.js.
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
