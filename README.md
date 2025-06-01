@@ -1,5 +1,5 @@
 ## Sobre mim
-Estudante de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunicações (IFCE, S1), com interesse pela área de Ciência de Dados, possuindo conhecimento em Pythone e SQL e dedicando-se ao aprofundamento em temas como análise de dados, machine learning e inteligência artificial. Além da área de dados se dedica também a projetos front-end, aperfeiçoando sua stack, TypeScrit e React.js.
+Estudante de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunicações (IFCE, S1), com interesse pela área de Ciência de Dados, possuindo conhecimento em Python e SQL e dedicando-se ao aprofundamento em temas como análise de dados e inteligência artificial. Além da área de dados se dedica também a projetos front-end, aperfeiçoando-se na stack TypeScrit e React.js.
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
