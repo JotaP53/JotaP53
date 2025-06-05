@@ -16,6 +16,7 @@ Estudante de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunica�
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=FFFFFF&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=3B313F&style=for-the-badge)
 ![React](https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=3B313F&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-angular-DD1100?logo=angular&logoColor=FFFFFF&style=for-the-badge)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge)
