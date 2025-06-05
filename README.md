@@ -4,19 +4,35 @@ Estudante de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunica�
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
 
-## Stacks / Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117) <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br>
-[![Python](https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-008B8B?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white)]() <br>
+## Stacks
+### Front-end
+![HTML5](https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=FFFFFF&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=FFFFFF&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=FFFFFF&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=3B313F&style=for-the-badge)
+![React](https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=3B313F&style=for-the-badge)
+
+### Data Analysis
+![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=FFFFFF&style=for-the-badge)
+![R](https://img.shields.io/badge/-r-276DC3?logo=r&logoColor=FFFFFF&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=FFFFFF&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-numpy-013243?logo=numpy&logoColor=FFFFFF&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=FFFFFF&style=for-the-badge)
+
+### Version Control
+![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-github-181717?logo=github&logoColor=FFFFFF&style=for-the-badge)
 
 ## GitHub Stats
 <div>
     <a href="https://github.com/JotaP53">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaP53&show_icons=true&theme=transparent">
 </div>
+
+<h>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasvolkweis04/lucasvolkweis04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasvolkweis04/lucasvolkweis04/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lucasvolkweis04/lucasvolkweis04/output/github-snake.svg" />
+</picture>
