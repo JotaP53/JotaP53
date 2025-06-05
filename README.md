@@ -1,5 +1,5 @@
 ## Sobre mim
-Estudante de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunicações (IFCE, S1), com interesse pela área de Ciência de Dados, possuindo conhecimento em Python e SQL e dedicando-se ao aprofundamento em temas como análise de dados e inteligência artificial. Além da área de dados se dedica também a projetos de desenvolvimento front-end.
+Aluno de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunicações (IFCE, S1), especializando-se em Ciência de Dados, com foco em Inteligência Artificial e Machine Learning. Nas horas vagas, se dedica ao estudo e aperfeiçoamento em técnicas de desenvolvimento Front-end.
 
 ## Stacks
 
