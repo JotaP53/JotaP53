@@ -12,7 +12,7 @@ Aluno de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunicaçõe
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=FFFFFF&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=FFFFFF&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=FFFFFF&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?logo=bootstrap&logoColor=FFFFFF&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=3B313F&style=for-the-badge)
 ![React](https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=3B313F&style=for-the-badge)
