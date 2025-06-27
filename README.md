@@ -26,7 +26,8 @@ Aluno de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunicaçõe
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
 
 ## GitHub Stats
-<div>
+<div align="justify">
     <a href="https://github.com/JotaP53">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaP53&show_icons=true&theme=transparent">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaP53&layout=compact&&langs_count=8&theme=transparent"/>
 </div>
