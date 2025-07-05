@@ -5,7 +5,6 @@ Aluno de Análise e Desenvolvimento de Sistemas (FB Uni, S5) e Engenharia de Tel
 
 ### Data Analysis
 ![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=FFFFFF&style=for-the-badge)
-![R](https://img.shields.io/badge/-r-276DC3?logo=r&logoColor=FFFFFF&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=FFFFFF&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/-numpy-013243?logo=numpy&logoColor=FFFFFF&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=FFFFFF&style=for-the-badge)
