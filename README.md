@@ -1,5 +1,5 @@
 ## Sobre mim
-Aluno de Ciência da Computação (FB Uni, S4) e Engenharia de Telecomunicações (IFCE, S1), especializando-se em Ciência de Dados, com foco em Inteligência Artificial e Machine Learning. Nas horas vagas, se dedica ao estudo e aperfeiçoamento em técnicas de desenvolvimento Front-end.
+Aluno de Análise e Desenvolvimento de Sistemas (FB Uni, S5) e Engenharia de Telecomunicações (IFCE, S1), especializando-se em Ciência de Dados, com foco em Inteligência Artificial e Machine Learning. Nas horas vagas, se dedica ao estudo e aperfeiçoamento em técnicas de desenvolvimento Front-end.
 
 ## Stacks
 
